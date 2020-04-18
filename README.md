@@ -1,1 +1,1 @@
-# repsponsiveLandingPage
+# responsiveLandingPage
